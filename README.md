@@ -2,11 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Taha's Personal Portfolio
 
-My personal portfolio website highlighting my accomplishments and achievements. 
+Ophelia Site
 
-To view, visit 
-
-www.tahasarfraz.ca
+Link: 
 
 **or**
 
